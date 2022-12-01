@@ -301,7 +301,7 @@ h6 { font-size: 16px;}
 .social-links{
 	display: grid;
 	align-content: center;
-	text-align: right;
+	text-align: left;
 }
 
 #social_img{
